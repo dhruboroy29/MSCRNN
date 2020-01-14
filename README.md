@@ -13,7 +13,8 @@ This repository contains data and code for the paper [One Size Does Not Fit All:
 
 Kindly cite this work as:
 
-```@inproceedings{roy2019one,
+```
+@inproceedings{roy2019one,
   title={One size does not fit all: Multi-scale, cascaded RNNs for radar classification},
   author={Roy, Dhrubojyoti and Srivastava, Sangeeta and Kusupati, Aditya and Jain, Pranshu and Varma, Manik and Arora, Anish},
   booktitle={Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
